@@ -472,4 +472,3 @@ bot.on('message' , message => {
 
 						}
 
-						bot.login("NDg4NDUxNzE4MTIwNDcyNTc3.DncbAA.BNclyiMeWnPr1gqFq0Tk6dEkbUA");
